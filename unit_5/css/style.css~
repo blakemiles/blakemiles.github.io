@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Krona+One|Homenaje|Oxygen);
+
+body {
+  padding-left: 150px;
+  font-family: monospace;
+  font-color: white;
+  background-image: url("https://github.com/blakemiles/blakemiles.github.io/blob/master/unit_3/images/hero00.jpg?raw=true")
+}
+
+h1 {
+  font-family: Krona One;
+  color: #FF8119;
+  text-align: left;
+  font-size: 400%;
+}
+
+h2 {
+  font-family: Krona One, sans-serif;
+  color: #022c33;
+  text-align: let;
+  text-decoration: ;
+  font-size: 250%;
+}
+
+p {
+  font-family: Krona one, sans-serif;
+  color: white;
+  font-size: 150%;
+}
+
+ul.a {
+  font-family: Oxygen, sans-serif;
+  list-style-type: circle;
+  font-size: 150%;
+  color: white
+}
+h3 {
+  color: white;
+  vertical-align: bottom;
+  text-align: left;
+  font-size: 100%;
+}
+
+#slogan {
+  color: white;
+  text-align: let;
+  text-decoration: underline;
+  font-size: 300%;
+}
