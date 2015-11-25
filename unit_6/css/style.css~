@@ -1,0 +1,93 @@
+@import url(https://fonts.googleapis.com/css?family=Krona+One|Homenaje|Oxygen);
+
+body {
+  font-family: monospace;
+  font-color: white;
+  background-image: url("https://github.com/blakemiles/blakemiles.github.io/blob/master/unit_3/images/hero00.jpg?raw=true")
+}
+
+header {
+  background: #ffed74;
+  border: 1px black solid;
+  padding: 20px;  
+}
+
+nav {
+  background: e8c66a;
+  border: 1px black solid;
+  padding: 20px;  
+}
+aside {
+  background: #ffc675;
+  border: 1px black solid;
+  padding: 20px;  
+}
+
+article {
+  background: #e89c6c;
+  border: 1px black solid;
+  padding: 20px;  
+}
+
+footer {
+  background: #ff9575e;
+  border: 1px black solid;
+  padding: 20px;  
+}
+
+div {
+  background: #ffe2b8;
+  border: 1px black solid;
+  padding: 20px;  
+}
+
+section {
+  background: #ffe2b8;
+  border: 1px black solid;
+  padding: 20px;  
+}
+
+h1 {
+  font-family: Krona One;
+  color: #FF8119;
+  text-align: left;
+  font-size: 400%;
+}
+
+h2 {
+  font-family: Krona One, sans-serif;
+  color: #022c33;
+  text-align: let;
+  text-decoration: ;
+  font-size: 250%;
+}
+
+p {
+  font-family: Krona one, sans-serif;
+  color: white;
+  font-size: 150%;
+  display: inline;
+}
+
+span {
+  font-size: 32px;
+}
+ul.a {
+  font-family: Oxygen, sans-serif;
+  list-style-type: circle;
+  font-size: 150%;
+  color: white
+}
+h3 {
+  color: white;
+  vertical-align: bottom;
+  text-align: right;
+  font-size: 100%;
+}
+
+#slogan {
+  color: white;
+  text-align: let;
+  text-decoration: underline;
+  font-size: 300%;
+}
