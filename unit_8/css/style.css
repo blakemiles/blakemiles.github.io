@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Krona+One|Homenaje|Oxygen);
+
+body {
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-right: 5%;
+  font-family: monospace;
+  font-color: white;
+  background-image: url("https://github.com/blakemiles/blakemiles.github.io/blob/master/unit_3/images/hero01.png?raw=true")
+}
+
+header {
+  background: #ffed74;
+  border: 1% black solid;
+  padding: .5%;  
+}
+
+nav {
+  background: e8c66a;
+  border: .2em black solid;
+  font-size: 1em;
+}
+aside {
+  background: #ffc675;
+  border: .2em black solid;
+  padding: .2em;  
+}
+
+article {
+  background: #e89c6c;
+  border: .2em black solid;
+  padding: .2em;  
+}
+
+footer {
+  background: #ff9575e;
+  border: .2em black solid;
+  padding: .2em; 
+  font-size: 1em;
+}
+
+div {
+  background: #ffe2b8;
+  border: .2em black solid;
+  padding: .2em;  
+}
+
+section {
+  background: #ffe2b8;
+  border: .2em black solid;
+  padding: .2em;  
+}
+
+h1 {
+  font-family: Krona One;
+  color: #FF8119;
+  text-align: left;
+  font-size: .2em%;
+}
+
+h2 {
+  font-family: Krona One, sans-serif;
+  color: #022c33;
+  text-align: let;
+  text-decoration: ;
+  font-size: 1em;
+}
+
+p {
+  font-family: Krona one, sans-serif;
+  color: white;
+  font-size: 1em;
+  display: inline;
+}
+
+span {
+  font-size: .2em;
+}
+ul.a {
+  font-family: Oxygen, sans-serif;
+  list-style-type: circle;
+  font-size: 1.5em;
+  color: white
+}
+
+ul.b {
+  font-family: Oxygen, sans-serif;
+  list-style-type: circle;
+  font-size: .8em;
+  color: black;
+  float: right;
+}
+
+h3 {
+  color: white;
+  vertical-align: bottom;
+  text-align: right;
+  font-size: 100%;
+}
+
+#slogan {
+  color: white;
+  text-align: let;
+  text-decoration: underline;
+  font-size: 300%;
+}
