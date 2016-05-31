@@ -1,6 +1,17 @@
-body {
-  background: #111111;
-}
+#hero {
+  background: url(http://blakemiles.github.io/gargantua.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  }
 
 #selfie {
   display: block;
@@ -38,6 +49,10 @@ body {
 #twitter {
   background-color: #72a85a;
   border-radius: 15px; 
+  position: absolute;
+  right: 0;
+  top: 0;
+  
 }
 
  /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
